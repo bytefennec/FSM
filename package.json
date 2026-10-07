@@ -1,0 +1,12 @@
+{
+  "name": "com.bytefennec.fsm",
+  "displayName": "FSM",
+  "description": "recycleable finite state machine",
+  "version": "1.0.0",
+  "keywords": [
+    "FSM"
+  ],
+  "author": {
+    "name": "Bytefennec"
+  }
+}
